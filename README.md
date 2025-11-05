@@ -13,7 +13,6 @@ Repository Contents
 - RAHUL_NS.py
 - srikeerthana_katta.py
 - LICENSE (MIT)
-- README.md (this file)
   
 License
 -------
